@@ -8,12 +8,13 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 200 
+Total Points earned: 300 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
 | 05 Jan 2018 | Learn to Code HTML & CSS  | 100 |  |
-| 16 Jan 2018| Updated Portfolio Website | 100 | |
+| 12 Jan 2018 | Finished reading Origin | 100 | |
+| 16 Jan 2018 | Updated Portfolio Website | 100 | |
 
 ## Web Dev with Computer Science
 
