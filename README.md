@@ -95,7 +95,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 __The items with checkboxes are from the WD-CS Guide, feel free to use them or any of the non-checkboxed ideas, or whatever you dream up yourself to build__
 
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
-* [ ] Project: Portfolio from the frontend section of FCC
+* [X] Project: Portfolio from the frontend section of FCC
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Simon Game from the frontend section of FCC
