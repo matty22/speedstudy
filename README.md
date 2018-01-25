@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 330 
+Total Points earned: 530 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -18,6 +18,7 @@ Total Points earned: 330
 | 19 Jan 2018 | Weightlifting: Back & Shoulders | 10 | |
 | 20 Jan 2018 | Cycling | 10 | |
 | 20 Jan 2018 | Painting: Watercolor | 10 | |
+| 23 Jan 2018 | Book: Pragmatic Programmer | 200 ||
 
 ## Web Dev with Computer Science
 
