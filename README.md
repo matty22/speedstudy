@@ -95,6 +95,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
 | HackerRank (10 problems)                    | 50                    | algorithms    |
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
+| Get a new job | 500 | career |
 
 ## Project ideas
 __The items with checkboxes are from the WD-CS Guide, feel free to use them or any of the non-checkboxed ideas, or whatever you dream up yourself to build__
