@@ -12,13 +12,14 @@ Total Points earned: 530
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-| 05 Jan 2018 | Learn to Code HTML & CSS  | 100 |  |
-| 12 Jan 2018 | Finished reading Origin | 100 | |
-| 16 Jan 2018 | Updated Portfolio Website | 100 | |
-| 19 Jan 2018 | Weightlifting: Back & Shoulders | 10 | |
-| 20 Jan 2018 | Cycling | 10 | |
-| 20 Jan 2018 | Painting: Watercolor | 10 | |
+| 05 Jan 2018 | Course: Learn to Code HTML & CSS  | 100 |  |
+| 12 Jan 2018 | Book: Finished reading Origin | 100 | |
+| 16 Jan 2018 | Basic Project: Updated Portfolio Website | 100 | |
+| 19 Jan 2018 | Exercise: Weightlifting | 10 | |
+| 20 Jan 2018 | Exercise: Cycling | 10 | |
+| 20 Jan 2018 | Fine Art: Watercolor | 10 | |
 | 23 Jan 2018 | Book: Pragmatic Programmer | 200 ||
+| 28 Jan 2018 | Fine Art: Glass Blowing Class| 10 ||
 
 ## Web Dev with Computer Science
 
