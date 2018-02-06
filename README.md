@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 640 
+Total Points earned: 655 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -21,6 +21,8 @@ Total Points earned: 640
 | 23 Jan 2018 | Book: Pragmatic Programmer | 200 ||
 | 28 Jan 2018 | Fine Art: Glass Blowing Class| 10 ||
 | 6 Feb 2018 | Basic Project: Vue Pomodoro | 100 ||
+| 6 Feb 2018 | Blog Post: Voting App Project | 15 | http://mattleonard.io/blog/VotingApp/ |
+
 ## Web Dev with Computer Science
 
 
