@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 540 
+Total Points earned: 640 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -20,7 +20,7 @@ Total Points earned: 540
 | 20 Jan 2018 | Fine Art: Watercolor | 10 | |
 | 23 Jan 2018 | Book: Pragmatic Programmer | 200 ||
 | 28 Jan 2018 | Fine Art: Glass Blowing Class| 10 ||
-
+| 6 Feb 2018 | Basic Project: Vue Pomodoro | 100 ||
 ## Web Dev with Computer Science
 
 
@@ -118,7 +118,7 @@ __The items with checkboxes are from the WD-CS Guide, feel free to use them or a
 Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
 * [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
-* [ ] Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
+* [X] Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Clone Twitter - yes, all the functionality
 * [ ] Project: Clone Reddit
