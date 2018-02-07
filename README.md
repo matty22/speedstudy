@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 695 
+Total Points earned: 710 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -25,6 +25,7 @@ Total Points earned: 695
 | 6 Feb 2018 | Exercise: Run - 3mi | 10 ||
 | 6 Feb 2018 | Blog Post: Nightlife Coordination App Project | 15 | http://mattleonard.io/blog/NightlifeCoordination/ |
 | 7 Feb 2018 | Blog Post: Stock Market Charting App Project | 15 | http://mattleonard.io/blog/StockTicker/ |
+| 7 Feb 2018 | Blog Post: Book Trader App Project | 15 | http://mattleonard.io/blog/BookTrader/ |
 
 ## Web Dev with Computer Science
 
