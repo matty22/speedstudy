@@ -28,6 +28,7 @@ Total Points earned: 740
 | 7 Feb 2018 | Blog Post: Book Trader App Project | 15 | http://mattleonard.io/blog/BookTrader/ |
 | 7 Feb 2018 | Blog Post: Pinterest Clone Project | 15 | http://mattleonard.io/blog/PinterestClone/ |
 | 7 Feb 2018 | Blog Post: Survey Tool Project | 15 | http://mattleonard.io/blog/SurveyTool/ |
+| 7 Feb 2018 | Blog Post: Vue Pomodoro Project | 15 | http://mattleonard.io/blog/VuePomodoro/ |
 
 ## Web Dev with Computer Science
 
