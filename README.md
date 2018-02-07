@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 725 
+Total Points earned: 740 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -27,6 +27,7 @@ Total Points earned: 725
 | 7 Feb 2018 | Blog Post: Stock Market Charting App Project | 15 | http://mattleonard.io/blog/StockTicker/ |
 | 7 Feb 2018 | Blog Post: Book Trader App Project | 15 | http://mattleonard.io/blog/BookTrader/ |
 | 7 Feb 2018 | Blog Post: Pinterest Clone Project | 15 | http://mattleonard.io/blog/PinterestClone/ |
+| 7 Feb 2018 | Blog Post: Survey Tool Project | 15 | http://mattleonard.io/blog/SurveyTool/ |
 
 ## Web Dev with Computer Science
 
