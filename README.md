@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 665 
+Total Points earned: 680 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -23,6 +23,7 @@ Total Points earned: 665
 | 6 Feb 2018 | Basic Project: Vue Pomodoro | 100 ||
 | 6 Feb 2018 | Blog Post: Voting App Project | 15 | http://mattleonard.io/blog/VotingApp/ |
 | 6 Feb 2018 | Exercise: Run - 3mi | 10 ||
+| 6 Feb 2018 | Blog Post: Nightlife Coordination App Project | 15 | http://mattleonard.io/blog/NightlifeCoordination/ |
 
 ## Web Dev with Computer Science
 
