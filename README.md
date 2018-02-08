@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 740 
+Total Points earned: 765 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -29,6 +29,8 @@ Total Points earned: 740
 | 7 Feb 2018 | Blog Post: Pinterest Clone Project | 15 | http://mattleonard.io/blog/PinterestClone/ |
 | 7 Feb 2018 | Blog Post: Survey Tool Project | 15 | http://mattleonard.io/blog/SurveyTool/ |
 | 7 Feb 2018 | Blog Post: Vue Pomodoro Project | 15 | http://mattleonard.io/blog/VuePomodoro/ |
+| 7 Feb 2018 | Exercise: Run - 2mi | 10 ||
+| 8 Feb 2018 | Blog Post: Websockets Talk | 15 | http://mattleonard.io/blog/WebsocketsTalk/ |
 
 ## Web Dev with Computer Science
 
