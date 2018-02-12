@@ -121,7 +121,7 @@ __The items with checkboxes are from the WD-CS Guide, feel free to use them or a
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
-* [ ] Project: Build the Pomodoro project from the FCC frontend curriculum
+* [X] Project: Build the Pomodoro project from the FCC frontend curriculum
 * [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
