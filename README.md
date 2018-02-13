@@ -38,6 +38,7 @@ Total Points earned: 965
 
 
 * [X] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [ ] [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
