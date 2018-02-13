@@ -114,7 +114,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 __The items with checkboxes are from the WD-CS Guide, feel free to use them or any of the non-checkboxed ideas, or whatever you dream up yourself to build__
 
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
-* [X] Project: Portfolio from the frontend section of FCC
+* [X] ~~Project: Portfolio from the frontend section of FCC~~
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Simon Game from the frontend section of FCC
@@ -122,7 +122,7 @@ __The items with checkboxes are from the WD-CS Guide, feel free to use them or a
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
-* [X] Project: Build the Pomodoro project from the FCC frontend curriculum
+* [X] ~~Project: Build the Pomodoro project from the FCC frontend curriculum~~
 * [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
@@ -130,7 +130,7 @@ __The items with checkboxes are from the WD-CS Guide, feel free to use them or a
 Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
 * [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
-* [X] Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.
+* [X] ~~Visit the Angular, React and Vue web pages, work through their tutorials, and get a sense of how they differ and which you prefer. From here on out, try to use one of them on each frontend where it makes sense to do it as a single page app. Lean towards your favorite on most projects, but use each of the other two in at least one project before finishing the guide.~~
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
 * [ ] Project: Clone Twitter - yes, all the functionality
 * [ ] Project: Clone Reddit
