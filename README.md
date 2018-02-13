@@ -12,15 +12,15 @@ Total Points earned: 965
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-| 05 Jan 2018 | Course: Learn to Code HTML & CSS  | 100 |  |
+| 05 Jan 2018 | Course: Learn to Code HTML & CSS  | 100 | http://learn.shayhowe.com/html-css/ |
 | 12 Jan 2018 | Book: Finished reading Origin | 100 | |
-| 16 Jan 2018 | Basic Project: Updated Portfolio Website | 100 | |
+| 16 Jan 2018 | Basic Project: Updated Portfolio Website | 100 | http://mattleonard.io/ |
 | 19 Jan 2018 | Exercise: Weightlifting | 10 | |
 | 20 Jan 2018 | Exercise: Cycling | 10 | |
 | 20 Jan 2018 | Fine Art: Watercolor | 10 | |
 | 23 Jan 2018 | Book: Pragmatic Programmer | 200 ||
 | 28 Jan 2018 | Fine Art: Glass Blowing Class| 10 ||
-| 6 Feb 2018 | Basic Project: Vue Pomodoro | 100 ||
+| 6 Feb 2018 | Basic Project: Vue Pomodoro | 100 | http://mattleonard.io/projects/vue-pomodoro/ |
 | 6 Feb 2018 | Blog Post: Voting App Project | 15 | http://mattleonard.io/blog/VotingApp/ |
 | 6 Feb 2018 | Exercise: Run - 3mi | 10 ||
 | 6 Feb 2018 | Blog Post: Nightlife Coordination App Project | 15 | http://mattleonard.io/blog/NightlifeCoordination/ |
