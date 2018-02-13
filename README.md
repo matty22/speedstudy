@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 765 
+Total Points earned: 965 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -31,6 +31,7 @@ Total Points earned: 765
 | 7 Feb 2018 | Blog Post: Vue Pomodoro Project | 15 | http://mattleonard.io/blog/VuePomodoro/ |
 | 7 Feb 2018 | Exercise: Run - 2mi | 10 ||
 | 8 Feb 2018 | Blog Post: Websockets Talk | 15 | http://mattleonard.io/blog/WebsocketsTalk/ |
+| 13 Feb 2018 | Book: Cracking the Coding Interview | 200 ||
 
 ## Web Dev with Computer Science
 
