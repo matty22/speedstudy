@@ -37,7 +37,7 @@ Total Points earned: 965
 
 
 
-* [X] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [X] ~~Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)~~
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
