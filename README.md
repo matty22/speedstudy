@@ -8,7 +8,7 @@ something about your goals here
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 985 
+Total Points earned: 995 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -34,6 +34,7 @@ Total Points earned: 985
 | 13 Feb 2018 | Book: Cracking the Coding Interview | 200 ||
 | 19 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 20 Feb 2018 | Exercise: Yoga - 30m | 10 ||
+| 22 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
