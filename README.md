@@ -1,14 +1,10 @@
 # Progress towards my learning goals
 
-## 2018
-
-something about your goals here
-
-## Progress
+## 2018 Progress
 
 Current Course:     
 Courses Completed: 1  
-Total Points earned: 995 
+Total Points earned: 1045 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -35,6 +31,7 @@ Total Points earned: 995
 | 19 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 20 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 22 Feb 2018 | Exercise: Yoga - 30m | 10 ||
+| 23 Feb 2018 | 10 HackerRank problems | 50 ||
 
 ## Web Dev with Computer Science
 
