@@ -2,9 +2,11 @@
 
 ## 2018 Progress
 
-Current Course:     
-Courses Completed: 1  
-Total Points earned: 1045 
+**Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
+**Courses Completed:** 1  
+**Current Book:** A Temporary Change of Address    
+**Books Read:** 3    
+**Total Points earned:** 1045 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -36,7 +38,8 @@ Total Points earned: 1045
 ## Web Dev with Computer Science
 
 
-
+* [ ] Course: [College Algebra](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
+* [ ] Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
 * [X] ~~Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)~~
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
@@ -64,10 +67,10 @@ Total Points earned: 1045
 
 ## Book Suggestions
 
-* [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-* [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-* [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-* [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+* [X] ~Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)~
+* [X] ~Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)~
+* [X] ~Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)~
+* [X] ~Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)~
 * [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 * [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
@@ -117,10 +120,10 @@ __The items with checkboxes are from the WD-CS Guide, feel free to use them or a
 * [X] ~~Project: Portfolio from the frontend section of FCC~~
 * [ ] Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 * [ ] Project: Pick a template from [here](http://www.free-css.com/free-css-templates) and create a new template with it as your inspiration (do not use its assets)
-* [ ] Project: Simon Game from the frontend section of FCC
+* [X] ~Project: Simon Game from the frontend section of FCC~
 * [ ] Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 * [ ] Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
-* [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
+* [X] ~The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.~
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [X] ~~Project: Build the Pomodoro project from the FCC frontend curriculum~~
 * [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
