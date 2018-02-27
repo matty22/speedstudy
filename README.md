@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** A Temporary Change of Address    
 **Books Read:** 3    
-**Total Points earned:** 1045 
+**Total Points earned:** 1055 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -34,6 +34,7 @@
 | 20 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 22 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 23 Feb 2018 | 10 HackerRank problems | 50 ||
+| 26 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
