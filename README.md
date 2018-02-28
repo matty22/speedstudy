@@ -148,6 +148,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Substantial Project                         | 200                   | project       |
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
+| PR that closes issue on personal project    | 10                    | commits       |
 | Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
