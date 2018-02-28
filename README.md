@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:** A Temporary Change of Address    
-**Books Read:** 3    
-**Total Points earned:** 1055 
+**Current Book:** You Don't Know JS: Async & Performance    
+**Books Read:** 4    
+**Total Points earned:** 1255 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -35,6 +35,7 @@
 | 22 Feb 2018 | Exercise: Yoga - 30m | 10 ||
 | 23 Feb 2018 | 10 HackerRank problems | 50 ||
 | 26 Feb 2018 | Exercise: Yoga - 30m | 10 ||
+| 28 Feb 2018 | Book: A Temporary Change of Address | 200 ||
 
 ## Web Dev with Computer Science
 
