@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** You Don't Know JS: Async & Performance    
 **Books Read:** 4    
-**Total Points earned:** 1265 
+**Total Points earned:** 1275 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
