@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:** You Don't Know JS: Async & Performance    
+**Current Book:** The Mindful Diet    
 **Books Read:** 4    
-**Total Points earned:** 1285 
+**Total Points earned:** 1295 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -38,7 +38,8 @@
 | 28 Feb 2018 | Book: A Temporary Change of Address | 200 ||
 | 1 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/21 |
 | 3 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/26 |
-| 5 Mar 2018 | Pr on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/27 |
+| 5 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/27 |
+| 7 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/30 |
 
 ## Web Dev with Computer Science
 
