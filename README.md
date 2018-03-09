@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** The Mindful Diet    
 **Books Read:** 4    
-**Total Points earned:** 1315 
+**Total Points earned:** 1325 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -42,6 +42,7 @@
 | 7 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/30 |
 | 7 Mar 2018 | PR on SurveyTool repo | 10 | https://github.com/matty22/SurveyTool/pull/32 |
 | 7 Mar 2018 | Exercise: Yoga - 30m | 10 ||
+| 9 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
