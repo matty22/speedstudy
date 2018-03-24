@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** YDKJS: Async & Performance    
 **Books Read:** 5    
-**Total Points earned:** 1645 
+**Total Points earned:** 1655 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -56,6 +56,7 @@
 | 19 Mar 2018 | Book: The Mindful Diet | 200 ||
 | 19 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 22 Mar 2018 | Exercise: Yoga - 30m | 10 ||
+| 24 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
