@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** YDKJS: Async & Performance    
 **Books Read:** 5    
-**Total Points earned:** 1655 
+**Total Points earned:** 1665 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -57,6 +57,7 @@
 | 19 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 22 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 24 Mar 2018 | Exercise: Yoga - 30m | 10 ||
+| 26 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
