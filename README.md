@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** YDKJS: Async & Performance    
 **Books Read:** 5    
-**Total Points earned:** 1665 
+**Total Points earned:** 1725 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -58,6 +58,8 @@
 | 22 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 24 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 26 Mar 2018 | Exercise: Yoga - 30m | 10 ||
+| 27 Mar 2018 | Technical Talk: Angular Templating Basics | 50 ||
+| 28 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
@@ -181,6 +183,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
 | Video Tutorial                              | 50                    | communication |
+| Technical Talk                              | 50                    | communication |
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
 | Team Up for a project                       | 100                   | communication |
