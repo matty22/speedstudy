@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:** YDKJS: Async & Performance    
-**Books Read:** 5    
-**Total Points earned:** 1735 
+**Current Book:** On the Trail: A History of American Hiking    
+**Books Read:** 6    
+**Total Points earned:** 1935 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -61,6 +61,7 @@
 | 27 Mar 2018 | Technical Talk: Angular Templating Basics | 50 ||
 | 28 Mar 2018 | Exercise: Yoga - 30m | 10 ||
 | 2 Apr 2018 | Exercise: Yoga - 30m | 10 ||
+| 2 Apr 2018 | Book: YDKJS: Async & Performance | 200 ||
 
 ## Web Dev with Computer Science
 
@@ -98,7 +99,7 @@
 * [X] ~Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)~
 * [X] ~Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)~
 * [X] ~Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)~
-* [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+* [X] ~Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)~
 * [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
