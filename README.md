@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:** On the Trail: A History of American Hiking    
 **Books Read:** 6    
-**Total Points earned:** 1945 
+**Total Points earned:** 1955 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -63,6 +63,7 @@
 | 2 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 2 Apr 2018 | Book: YDKJS: Async & Performance | 200 ||
 | 5 Apr 2018 | Exercise: Yoga - 30m | 10 ||
+| 12 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
