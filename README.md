@@ -4,7 +4,7 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:** On the Trail: A History of American Hiking    
+**Current Book:**     
 **Books Read:** 7    
 **Total Points earned:** 2165 
 
