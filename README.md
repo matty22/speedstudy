@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:**     
+**Current Book:**   The Magicians  
 **Books Read:** 7    
-**Total Points earned:** 2165 
+**Total Points earned:** 2175 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -66,6 +66,7 @@
 | 12 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 14 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 15 Apr 2018 | Book: On the Trail: A History of American Hiking | 200 ||
+| 16 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
