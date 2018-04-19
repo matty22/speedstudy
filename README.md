@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**   The Magicians  
 **Books Read:** 7    
-**Total Points earned:** 2175 
+**Total Points earned:** 2185 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -67,6 +67,7 @@
 | 14 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 15 Apr 2018 | Book: On the Trail: A History of American Hiking | 200 ||
 | 16 Apr 2018 | Exercise: Yoga - 30m | 10 ||
+| 18 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
