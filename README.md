@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**   The Magicians  
 **Books Read:** 7    
-**Total Points earned:** 2255 
+**Total Points earned:** 2265 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -69,6 +69,7 @@
 | 16 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 18 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 19 Apr 2018 | 7 PRs on personal project today | 70 ||
+| 22 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
