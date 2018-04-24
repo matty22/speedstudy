@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**   The Magicians  
 **Books Read:** 7    
-**Total Points earned:** 2285 
+**Total Points earned:** 2385 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -71,6 +71,7 @@
 | 19 Apr 2018 | 7 PRs on personal project today | 70 ||
 | 22 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 23 Apr 2018 | 2 PRs on personal project today | 20 ||
+| 24 Apr 2018 | Course: Learn to Code Advanced HTML & CSS | 100 ||
 
 ## Web Dev with Computer Science
 
@@ -79,7 +80,7 @@
 * [ ] Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
 * [X] ~~Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)~~
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-* [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [X] ~Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)~
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
