@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:**   The Magicians  
-**Books Read:** 7    
-**Total Points earned:** 2405 
+**Current Book:**     
+**Books Read:** 8    
+**Total Points earned:** 2605 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -74,6 +74,7 @@
 | 24 Apr 2018 | Course: Learn to Code Advanced HTML & CSS | 100 ||
 | 26 Apr 2018 | Exercise: Yoga - 30m | 10 ||
 | 30 Apr 2018 | Exercise: Yoga - 30m | 10 ||
+| 1 May 2018 | Book: The Magicians | 200 ||
 
 ## Web Dev with Computer Science
 
