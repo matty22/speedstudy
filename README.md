@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 8    
-**Total Points earned:** 2635 
+**Total Points earned:** 2645 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -78,6 +78,7 @@
 | 2 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 2 May 2018 | PR on personal project | 10 ||
 | 3 May 2018 | Exercise: Yoga - 30m | 10 ||
+| 9 May 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
