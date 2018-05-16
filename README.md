@@ -5,8 +5,8 @@
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
 **Current Book:**     
-**Books Read:** 8    
-**Total Points earned:** 2655 
+**Books Read:** 9    
+**Total Points earned:** 2855 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -80,6 +80,7 @@
 | 3 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 9 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 14 May 2018 | ExerciseL Yoga - 30m | 10 ||
+| 15 May 2018 | Book: ES6 & Beyond | 200 ||
 
 ## Web Dev with Computer Science
 
@@ -118,7 +119,7 @@
 * [X] ~Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)~
 * [X] ~Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)~
 * [X] ~Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)~
-* [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [X] ~Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)~
 * [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
