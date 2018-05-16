@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 9    
-**Total Points earned:** 2855 
+**Total Points earned:** 3355 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -81,6 +81,11 @@
 | 9 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 14 May 2018 | ExerciseL Yoga - 30m | 10 ||
 | 15 May 2018 | Book: ES6 & Beyond | 200 ||
+| 11 May 2018 | Project: React Tribute Page | 100 | https://github.com/matty22/react-tributepage |
+| 12 May 2018 | Project: React Portfolio | 100 | https://github.com/matty22/react-portfolio |
+| 15 May 2018 | Project: React Random Quotes | 100 | https://github.com/matty22/react-randomquotes |
+| 15 May 2018 | Project: React Local Weather | 100 | https://github.com/matty22/react-localweather |
+| 16 May 2018 | Project: Wikipedia Viewer | 100 | https://github.com/matty22/react-wikipedia |
 
 ## Web Dev with Computer Science
 
