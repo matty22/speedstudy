@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 9    
-**Total Points earned:** 3355 
+**Total Points earned:** 3555 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -86,7 +86,7 @@
 | 15 May 2018 | Project: React Random Quotes | 100 | https://github.com/matty22/react-randomquotes |
 | 15 May 2018 | Project: React Local Weather | 100 | https://github.com/matty22/react-localweather |
 | 16 May 2018 | Project: React Wikipedia Viewer | 100 | https://github.com/matty22/react-wikipedia |
-|||||
+| 16 May 2018 | Project: React TwitchTV Viewer | 100 | https://github.com/matty22/react-twitchtv |
 | 21 May 2018 | Project: React Calculator | 100 | https://github.com/matty22/react-calculator |
 
 ## Web Dev with Computer Science
