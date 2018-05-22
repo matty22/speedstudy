@@ -85,7 +85,9 @@
 | 12 May 2018 | Project: React Portfolio | 100 | https://github.com/matty22/react-portfolio |
 | 15 May 2018 | Project: React Random Quotes | 100 | https://github.com/matty22/react-randomquotes |
 | 15 May 2018 | Project: React Local Weather | 100 | https://github.com/matty22/react-localweather |
-| 16 May 2018 | Project: Wikipedia Viewer | 100 | https://github.com/matty22/react-wikipedia |
+| 16 May 2018 | Project: React Wikipedia Viewer | 100 | https://github.com/matty22/react-wikipedia |
+|||||
+| 21 May 2018 | Project: React Calculator | 100 | https://github.com/matty22/react-calculator |
 
 ## Web Dev with Computer Science
 
