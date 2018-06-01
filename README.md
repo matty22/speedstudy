@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 9    
-**Total Points earned:** 3565 
+**Total Points earned:** 3765 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -88,7 +88,9 @@
 | 16 May 2018 | Project: React Wikipedia Viewer | 100 | https://github.com/matty22/react-wikipedia |
 | 16 May 2018 | Project: React TwitchTV Viewer | 100 | https://github.com/matty22/react-twitchtv |
 | 21 May 2018 | Project: React Calculator | 100 | https://github.com/matty22/react-calculator |
+| 25 May 2018 | Project: React Pomodoro | 100 | https://github.com/matty22/react-pomodoro |
 | 30 May 2018 | Exercise: Yoga - 30m | 10 ||
+| 31 May 2018 | Project: React Tic Tac Toe | 100 | https://github.com/matty22/react-tictactoe |
 
 ## Web Dev with Computer Science
 
