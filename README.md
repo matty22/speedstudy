@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 9    
-**Total Points earned:** 3765 
+**Total Points earned:** 3865 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -91,6 +91,7 @@
 | 25 May 2018 | Project: React Pomodoro | 100 | https://github.com/matty22/react-pomodoro |
 | 30 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 31 May 2018 | Project: React Tic Tac Toe | 100 | https://github.com/matty22/react-tictactoe |
+| 1 Jun 2018 | Project: React Email Parser | 100 | http://mattleonard.io/projects/ReactEmailParser/ |
 
 ## Web Dev with Computer Science
 
