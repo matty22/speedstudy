@@ -5,8 +5,8 @@
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
 **Current Book:**     
-**Books Read:** 9    
-**Total Points earned:** 3865 
+**Books Read:** 10    
+**Total Points earned:** 4065 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -92,6 +92,7 @@
 | 30 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 31 May 2018 | Project: React Tic Tac Toe | 100 | https://github.com/matty22/react-tictactoe |
 | 1 Jun 2018 | Project: React Email Parser | 100 | http://mattleonard.io/projects/ReactEmailParser/ |
+| 5 Jun 2018 | Book: The Magician King | 200 ||
 
 ## Web Dev with Computer Science
 
