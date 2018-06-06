@@ -4,7 +4,7 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:**     
+**Current Book:**  Setting Up ES6   
 **Books Read:** 10    
 **Total Points earned:** 4065 
 
