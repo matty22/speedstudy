@@ -4,9 +4,9 @@
 
 **Current Course:** [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)     
 **Courses Completed:** 1  
-**Current Book:**  Setting Up ES6   
+**Current Book:**     
 **Books Read:** 10    
-**Total Points earned:** 4065 
+**Total Points earned:** 4265 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -93,6 +93,7 @@
 | 31 May 2018 | Project: React Tic Tac Toe | 100 | https://github.com/matty22/react-tictactoe |
 | 1 Jun 2018 | Project: React Email Parser | 100 | http://mattleonard.io/projects/ReactEmailParser/ |
 | 5 Jun 2018 | Book: The Magician King | 200 ||
+| 12 Jun 2018 | Book: Setting Up ES6 | 200 ||
 
 ## Web Dev with Computer Science
 
@@ -132,7 +133,7 @@
 * [X] ~Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)~
 * [X] ~Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)~
 * [X] ~Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)~
-* [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+* [X] ~Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)~
 * [ ] Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)
 * [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
