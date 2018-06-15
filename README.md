@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 10    
-**Total Points earned:** 4265 
+**Total Points earned:** 4275 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -94,6 +94,7 @@
 | 1 Jun 2018 | Project: React Email Parser | 100 | http://mattleonard.io/projects/ReactEmailParser/ |
 | 5 Jun 2018 | Book: The Magician King | 200 ||
 | 12 Jun 2018 | Book: Setting Up ES6 | 200 ||
+| 14 Jun 2018 | Exercise: Yoga - 30m | 10 ||
 
 ## Web Dev with Computer Science
 
