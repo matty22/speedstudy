@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 10    
-**Total Points earned:** 4275 
+**Total Points earned:** 4515 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -79,7 +79,7 @@
 | 2 May 2018 | PR on personal project | 10 ||
 | 3 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 9 May 2018 | Exercise: Yoga - 30m | 10 ||
-| 14 May 2018 | ExerciseL Yoga - 30m | 10 ||
+| 14 May 2018 | Exercise: Yoga - 30m | 10 ||
 | 15 May 2018 | Book: ES6 & Beyond | 200 ||
 | 11 May 2018 | Project: React Tribute Page | 100 | https://github.com/matty22/react-tributepage |
 | 12 May 2018 | Project: React Portfolio | 100 | https://github.com/matty22/react-portfolio |
@@ -95,6 +95,8 @@
 | 5 Jun 2018 | Book: The Magician King | 200 ||
 | 12 Jun 2018 | Book: Setting Up ES6 | 200 ||
 | 14 Jun 2018 | Exercise: Yoga - 30m | 10 ||
+| 16 Jun 2018 | Exercise: Hiking - 14miles | 140 ||
+| 20 Jun 2018 | Course: Node, Express, Postgres | 100 ||
 
 ## Web Dev with Computer Science
 
