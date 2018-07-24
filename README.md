@@ -6,7 +6,7 @@
 **Courses Completed:** 1  
 **Current Book:**     
 **Books Read:** 10    
-**Total Points earned:** 4515 
+**Total Points earned:** 4715 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -97,6 +97,7 @@
 | 14 Jun 2018 | Exercise: Yoga - 30m | 10 ||
 | 16 Jun 2018 | Exercise: Hiking - 14miles | 140 ||
 | 20 Jun 2018 | Course: Node, Express, Postgres | 100 ||
+| 21 July 2018 | Book: The God Delusion | 200 ||
 
 ## Web Dev with Computer Science
 
